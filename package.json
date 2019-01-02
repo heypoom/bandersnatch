@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "backpack"
+  },
+  "devDependencies": {
+    "debundle": "^0.5.4"
+  },
+  "dependencies": {
+    "backpack-core": "^0.8.3",
+    "graphlib": "^2.1.7",
+    "graphlib-dot": "^0.6.2"
+  }
+}

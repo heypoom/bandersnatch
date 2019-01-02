@@ -1,0 +1,5 @@
+{
+  "type": "webpack",
+  "entryPoint": 2,
+  "knownPaths": {}
+}
